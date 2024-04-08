@@ -42,10 +42,9 @@ p {
 .btn{
     border-radius: 4px;
     background: blueviolet;
-    padding: 6px; 14px;
+    padding: 6px 14px;
     cursor: pointer;
 }
-
 .btn-success{
     background: green;
     border: 1px solid;
